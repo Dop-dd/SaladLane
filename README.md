@@ -10,12 +10,10 @@ SaladLane is a concept where salad lovers meet to share their ideas adn recipes.
 This project is for anyone who loves Salad. Owing to the busy schedules people often have, it's sometimes difficult to keep a 
 a healthy diet. We don't necessarily have to spend hours in the kitchen to prepare a health dish. We can eat on the go while saving time and even money. SaladLane aims to provide members with quick and easy recipes. Members can sign up and partake in a meetup or have recipes sent to them via mail. Our site provides video tutorials tips on how to make salads.
 
-- As a user I want to sign up and meet others who share the same interests as myself.
-- By becoming a member, I can benefit from the monthly sessions organised by Saladlane to try oout different salad dishes and        flavours.
-
 - As a user I want to be able to discover new and interesting salad recipes
   - As a user I want to recommended recipes based on my interest
   - As a user Iwant to be recommended recipes based on my eating habits
+  - By becoming a member, I can benefit from the monthly sessions organised by Saladlane to try oout different salad dishes and        flavours.
   
 - As a user I want register to a website that gives me the opportunity to meet others with similar interests
   - As a user  i want to be recommended well known recipes 
